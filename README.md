@@ -19,10 +19,9 @@ yay -S steam-big-picture-session
 ```
 
 ### Other 
-Place the provided .desktop files in the specified location:
+Place the provided .desktop file in the specified location:
 ```bash
 steam-big-picture.desktop -> /usr/share/wayland-sessions/steam-big-picture.desktop
-steam-shutdown.desktop -> ~/.local/share/applications/steam-shutdown.desktop
 ```
 
 
