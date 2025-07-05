@@ -1,4 +1,5 @@
 # steam-big-picture-session
+A gamescope session for Steam Big Picture mode straight from the display manager
 
 ## What is this?
 Using [gamescope](https://github.com/ValveSoftware/gamescope) steam can be run in big picture mode directly from the display manager.
