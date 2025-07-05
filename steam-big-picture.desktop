@@ -2,5 +2,4 @@
 Name=Steam Big Picture
 Comment=Start Steam in Big Picture Mode
 Exec=/usr/bin/gamescope -e -- /usr/bin/steam -tenfoot -steamos3
-DesktopNames=steam-big-picture
 Type=Application
