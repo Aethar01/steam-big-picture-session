@@ -12,9 +12,9 @@ Using [gamescope](https://github.com/ValveSoftware/gamescope) steam can be run i
 Since steam does not support exiting from big picture mode back to the display manager it is recommended to add the .desktop file "steam-shutdown.desktop" as a non-steam game.
 
 ### Arch Linux
-Install the AUR package []() 
+Install the AUR package [steam-big-picture-session](https://aur.archlinux.org/packages/steam-big-picture-session) 
 ```bash
-yay -S wayland-steam-big-picture
+yay -S steam-big-picture-session
 ```
 
 ### Other 
