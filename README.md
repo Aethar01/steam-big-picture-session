@@ -22,7 +22,7 @@ yay -S steam-big-picture-session
 Place the provided .desktop file in the specified location:
 ```bash
 steam-big-picture.desktop -> /usr/share/wayland-sessions/steam-big-picture.desktop
-steam-shutdown.desktop -> /usr/share/applications/steam-shutdown.desktop
+steam-shutdown.desktop -> ~/.local/share/applications/steam-shutdown.desktop
 ```
 
 
