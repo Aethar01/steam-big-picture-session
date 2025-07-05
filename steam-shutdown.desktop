@@ -1,5 +1,5 @@
 [Desktop Entry]
-Name=Steam Big Picture
+Name=Steam Shutdown
 Comment=Start Steam in Big Picture Mode
 Exec=/usr/bin/steam -shutdown
 Type=Application
